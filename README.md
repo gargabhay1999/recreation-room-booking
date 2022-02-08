@@ -4,11 +4,11 @@
 
 _Requirements:_
 
-_1. Recreation room is designed for the use of both male and female employees.
+1. Recreation room is designed for the use of both male and female employees.
 
 2. Men and Women cannot be present in the recreation room at the same time.
 
-3. At any given point in time, maximum capacity of the recreation room cannot exceed 3_
+3. At any given point in time, maximum capacity of the recreation room cannot exceed 3.
 
 
 Steps to run:
